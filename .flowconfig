@@ -1,0 +1,4 @@
+
+[include]
+./**/*.js
+./dom/node_modules/thing/*.js
